@@ -1,0 +1,19 @@
+#options
+
+create an account
+  name
+  phone no
+  age
+  password
+  
+login
+  name
+  password
+  
+services
+  deposit
+  withdrawal
+  check balance
+  money transfer
+  change password
+  check detail
